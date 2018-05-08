@@ -1,4 +1,5 @@
 git sample
 second line
 third line
-fourth line 
+fourth line
+五行目
